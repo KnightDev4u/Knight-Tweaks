@@ -11,4 +11,4 @@ Knight Tweaks is a powerful yet simple tool designed to help you get the most ou
 
 🔧 **No complicated setups. No unnecessary bloat. Just pure optimization at your fingertips.**  
 
-👉 **[Download Knight Tweaks](https://github.com/YourRepoLinkHere)**
+👉 **[Download Knight Tweaks](https://github.com/KnightDev4u/Knight-Tweaks/releases/tag/v1)**
